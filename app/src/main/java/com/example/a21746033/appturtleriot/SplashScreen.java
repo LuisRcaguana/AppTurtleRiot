@@ -17,7 +17,7 @@ public class SplashScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash_screen);
-        TextView tv1 = (TextView)findViewById(R.id.tvPText1);
+        //TextView tv1 = (TextView)findViewById(R.id.tvPText1);
         TextView tv2 = (TextView)findViewById(R.id.tvPText2);
         ImageView logo = (ImageView)findViewById(R.id.ivLOGO);
 
@@ -29,7 +29,7 @@ public class SplashScreen extends AppCompatActivity {
 
         Animation animacionTexto = AnimationUtils.loadAnimation(this,R.anim.desaparece);
         Animation animacionLogo = AnimationUtils.loadAnimation(this,R.anim.subir_arriba);
-        tv1.startAnimation(animacionTexto);
+        //tv1.startAnimation(animacionTexto);
         tv2.startAnimation(animacionTexto);
         logo.startAnimation(animacionLogo);
 

@@ -14,8 +14,8 @@
         android:layout_height="150dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="108dp"
-        android:layout_marginBottom="347dp"
+        android:layout_marginStart="115dp"
+        android:layout_marginBottom="345dp"
         app:srcCompat="@drawable/logo" />
 
     <TextView
