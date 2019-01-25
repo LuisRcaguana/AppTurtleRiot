@@ -2,4 +2,6 @@
     <string name="app_name">AppTurtleRiot</string>
     <string name="tv1_principal">TURTLE RIOT</string>
     <string name="tv2_Principal">JOIN THE ECO-ARMY</string>
+    <string name="txt_tvPText1">TURTLE RIOT</string>
+    <string name="txt_tvPText2">JOIN THE ECO-ARMY !</string>
 </resources>
